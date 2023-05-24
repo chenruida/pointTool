@@ -1,0 +1,15 @@
+# macOS system files that should not be committed
+.DS_Store
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment files
+venv/
+env/
+.venv/
+.vscode/
+
